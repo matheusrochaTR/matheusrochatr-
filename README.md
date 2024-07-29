@@ -1,5 +1,5 @@
-Boas vindas ao meu perfil 💙💙
-Meu nome é matheus rocha
+Boas vindas ao meu perfil 🚀🚀
+Meu nome é Matheus Rocha
 
 Estou estudando na Alura
 Estou me desenvolvendo na linguagem JavaScript
